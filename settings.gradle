@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name='Zonas Wifi Pasto 2019'
